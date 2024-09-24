@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: 05_Greet_Service
+server:
+  port: 9091

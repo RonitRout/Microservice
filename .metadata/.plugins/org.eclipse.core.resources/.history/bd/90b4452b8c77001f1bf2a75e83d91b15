@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: 04_Welcome_Service
+server:
+  port: 8081
+    
+eureka.client.service
